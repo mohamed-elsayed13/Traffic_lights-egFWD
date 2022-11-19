@@ -1,0 +1,13 @@
+ECUAL/LED_DRIVER/LED.d ECUAL/LED_DRIVER/LED.o: ../ECUAL/LED_DRIVER/LED.c \
+ ../ECUAL/LED_DRIVER/LED.h \
+ ../ECUAL/LED_DRIVER/..\..\MCAL\DIO_DRIVER\DIO.h \
+ ../ECUAL/LED_DRIVER/..\..\MCAL\DIO_DRIVER\..\..\Utilities\registers.h \
+ ../ECUAL/LED_DRIVER/..\..\MCAL\DIO_DRIVER\..\..\Utilities\types.h
+
+../ECUAL/LED_DRIVER/LED.h:
+
+../ECUAL/LED_DRIVER/..\..\MCAL\DIO_DRIVER\DIO.h:
+
+../ECUAL/LED_DRIVER/..\..\MCAL\DIO_DRIVER\..\..\Utilities\registers.h:
+
+../ECUAL/LED_DRIVER/..\..\MCAL\DIO_DRIVER\..\..\Utilities\types.h:
